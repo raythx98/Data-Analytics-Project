@@ -3,6 +3,7 @@
 Python script for my Hackwagon DS102 Final Project, graduated with highest distinction. 
 
 The magic happens in this file: Module Mapping Project.ipynb
+A dataset is excluded as it exceeds github file size limit, [here](https://www.kaggle.com/usdot/flight-delays/download)
 
 Archived as project is completed and we will not be making further changes.
 
