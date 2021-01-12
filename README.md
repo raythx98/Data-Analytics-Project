@@ -1,9 +1,14 @@
 # Module-Mapping-Project
 
-Python script for my Hackwagon DS102 Final Project, graduated with highest distinction. 
+A python script which collects personalised data and suggests top universities, ranked by the possible number of module mappings available.
+
+I got the inspiration to do this because the available tools (e.g. EduRec) available are not user-friendly, with little/poor user interface/experience. This makes the comparison difficult and the process of applying for SEP daunting.
+
+This tool is versatile — it can be used by students from most faculties, and suggests different universities based on one's degree requirements, modules taken and desired modules. It is not perfect, this tool requires the manual input of individual modules; I thought of using web scraping to obtain all this information. Furthermore, this tool has yet to support the handling of preclusions and prerequisites; again, I thought of using a topological order (DAG) to do so. Given my limited skill in python (I am self-taught), this shall probably suffice.
 
 The magic happens in this file: Module Mapping Project.ipynb
-A dataset is excluded as it exceeds github file size limit, download the zip file to flights.csv [here](https://www.kaggle.com/usdot/flight-delays/download)
+The end product: Module Mapping by Ray.xls
+All other excel files: Data files for module mapping from respective NUS faculties
 
 Archived as project is completed and we will not be making further changes.
 
