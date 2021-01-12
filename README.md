@@ -12,18 +12,26 @@ All other excel files: Data files for module mapping from respective NUS faculti
 
 Archived as project is completed and we will not be making further changes.
 
-<img src="https://i.imgur.com/MHgdkiS.jpg" width="600px">
-<img src="https://i.imgur.com/OWmIJR6.jpg" width="600px">
-<img src="https://i.imgur.com/KzKevYF.jpg" width="600px">
-<img src="https://i.imgur.com/pqSiO8J.jpg" width="600px">
-<img src="https://i.imgur.com/L7ZEWuG.jpg" width="600px">
-<img src="https://i.imgur.com/9Bf8cre.jpg" width="600px">
-<img src="https://i.imgur.com/1sF5tyo.jpg" width="600px">
-<img src="https://i.imgur.com/UvMhpzU.jpg" width="600px">
-<img src="https://i.imgur.com/oWIAKuT.jpg" width="600px">
-<img src="https://i.imgur.com/nVyUG5g.jpg" width="600px">
-<img src="https://i.imgur.com/1WdJ7Un.jpg" width="600px">
-<img src="https://i.imgur.com/ggLT2RF.jpg" width="600px">
-<img src="https://i.imgur.com/E4CsWt8.jpg" width="600px">
-<img src="https://i.imgur.com/jitZoxn.jpg" width="600px">
-<img src="https://i.imgur.com/JWyT6MM.jpg" width="600px">
+<img src="https://i.imgur.com/2Lte2Cc.jpg" width="600px">
+<img src="https://i.imgur.com/xG5N9ip.jpg" width="600px">
+<img src="https://i.imgur.com/rqQK6hP.jpg" width="600px">
+<img src="https://i.imgur.com/BNyqztX.jpg" width="600px">
+<img src="https://i.imgur.com/90FFOoy.jpg" width="600px">
+<img src="https://i.imgur.com/pMbdezH.jpg" width="600px">
+<img src="https://i.imgur.com/9zGqWqo.jpg" width="600px">
+<img src="https://i.imgur.com/2DFOskQ.jpg" width="600px">
+<img src="https://i.imgur.com/GDow4gJ.jpg" width="600px">
+<img src="https://i.imgur.com/fVoOkYE.jpg" width="600px">
+<img src="https://i.imgur.com/juXOp31.jpg" width="600px">
+<img src="https://i.imgur.com/fwNxnMa.jpg" width="600px">
+<img src="https://i.imgur.com/DIAEXcJ.jpg" width="600px">
+<img src="https://i.imgur.com/k7ZqGc9.jpg" width="600px">
+<img src="https://i.imgur.com/G5kjJbe.jpg" width="600px">
+<img src="https://i.imgur.com/TEn1y7H.jpg" width="600px">
+<img src="https://i.imgur.com/v2Gz8XV.jpg" width="600px">
+<img src="https://i.imgur.com/ZOpqy6C.jpg" width="600px">
+<img src="https://i.imgur.com/kZBezs1.jpg" width="600px">
+<img src="https://i.imgur.com/TiTpeHW.jpg" width="600px">
+<img src="https://i.imgur.com/pcw9Wov.jpg" width="600px">
+<img src="https://i.imgur.com/2UMV2EN.jpg" width="600px">
+<img src="https://i.imgur.com/7VRkqEk.jpg" width="1000px">
