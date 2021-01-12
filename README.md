@@ -1,9 +1,8 @@
 # Module-Mapping-Project
 
-Mastermind behind the project: Module Mapping Project.ipynb
-# DSTA-CODE_EXP-2020
+Python script for my Hackwagon DS102 Final Project, graduated with highest distinction. 
 
-Mobile Application developed on Android Studio for Hackathon
+The magic happens in this file: Module Mapping Project.ipynb
 
 Archived as project is completed and we will not be making further changes.
 
